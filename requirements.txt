@@ -1,0 +1,6 @@
+matplotlib==3.5.2
+opencv_python==4.7.0.68
+scikit_learn==1.1.1
+torch==2.0.0
+torchvision==0.15.1
+tqdm==4.64.1
